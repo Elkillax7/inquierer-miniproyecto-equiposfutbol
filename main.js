@@ -1,7 +1,7 @@
 const rxjs = require('rxjs');
 const inquirer = require('inquirer');
 'use strict';
-console.log('Hi, welcome to Node Pizza');
+console.log('BIENVENIDO USUARIO INGRESA TU NOMBRE Y CONTRASENA:');
 var questions = [
     {
         type: 'confirm',

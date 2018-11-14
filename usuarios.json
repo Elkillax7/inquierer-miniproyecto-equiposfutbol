@@ -1,0 +1,12 @@
+{
+    "arrayUsuarios": [
+        {
+            "nombreUsuario": "Alexis Guerrero",
+            "passwordUsuario": "172288alexis",
+        },
+        {
+            "nombreUsuario": "Michelle Martinez",
+            "passwordUsuario": "654654micky",
+        }
+    ]
+}
